@@ -1,0 +1,1 @@
+{"initialI18nStore":{"en":{"common":{"__Debug message":"Hi, I am in English 🇬🇧"}}},"initialLanguage":"en","i18nServerInstance":null,"pageProps":{"initialApolloState":{"ROOT_QUERY":{"__typename":"Query","character({\"id\":2})":{"__typename":"Character","name":"Morty Smith"}}}},"__N_SSG":true}
